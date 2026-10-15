@@ -5,7 +5,7 @@
 
 **Student Performance Analytics System**
 
-**Student:** Aryan Bendre  
+**Student:** Kshitij Milind Gaikwad  
 **Course:** Python with AI  
 **Technology:** Python, NumPy, Pandas
 
