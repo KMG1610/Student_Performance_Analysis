@@ -136,7 +136,7 @@ This project demonstrates how Python can be used to convert raw student records 
 
 ## Author
 
-**Aryan Bendre**  
+**Kshitij Milind Gaikwad**  
 B.Sc. Data Science
 
 ## Assignment Note
